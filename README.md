@@ -15,3 +15,6 @@ __Note:__
 Make sure pygame is installed in your system, which can be done by entering the following command in the terminal:
 
 `pip install pygame`
+
+__Credits:__
+https://www.freecodecamp.org/
